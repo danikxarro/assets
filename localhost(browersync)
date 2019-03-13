@@ -1,5 +1,0 @@
-Simple implementaion of BrowserSync (Node.js) - 
-
-Real time reload in browser. 
-Install json <code>npm i </code> in local folder. It will search for html, css, js file changes and reload them in browser in real time.
-
